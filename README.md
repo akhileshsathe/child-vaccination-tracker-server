@@ -27,25 +27,16 @@ profile to display their timings, location and other details.
  ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -59,5 +50,10 @@ To run this project, you will need to add the following environment variables to
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/akhileshsathe/child-vaccination-tracker-server/blob/documentation-and-screenshots/Documentation.pdf)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
