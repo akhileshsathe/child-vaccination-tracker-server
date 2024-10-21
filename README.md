@@ -17,6 +17,15 @@ It lets the parents book an appointment with vaccination center that are
 registered with the application, also it lets the parents to locate the vaccination 
 centers with ease.Vaccination centers can register with the app and create their 
 profile to display their timings, location and other details. 
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express
+
+**Database:** MongoDB Atlas
+
 ## Installation
 
 ### Clone
@@ -32,6 +41,10 @@ Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -56,4 +69,8 @@ To run this project, you will need to add the following environment variables to
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
 
